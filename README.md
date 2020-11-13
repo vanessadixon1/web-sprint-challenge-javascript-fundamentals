@@ -30,7 +30,6 @@ forEach iterates over an array without stopping and map return a new array witho
 
 2. Explain the difference between a callback and a higher order function.
 A callback is received by a higher order function and the callback doesn't run untill after another process has finished.
-
 3. What is closure? A closure is a nested function. 
 
 4. Describe the four rules of the 'this' keyword. Implicit Binding - the this keyword refers to what is on the left side of the dot when called, Global/Console Binding - this is where the this keyword refers tot he global or console object, Explicit Binding - uses call bind and apply to attach the this keyword to another function, and New Binding - the this keyword refers to the instance of the object. 
